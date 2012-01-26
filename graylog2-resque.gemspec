@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Matt Conway"]
   s.email       = ["wr0ngway@yahoo.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{A resque failure handler that sends failures to the graylog2 log management facility }
+  s.description = %q{A resque failure handler that sends failures to the graylog2 log management facility }
 
   s.rubyforge_project = "graylog2-resque"
 
