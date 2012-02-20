@@ -1,3 +1,12 @@
+0.5.1
+-----
+
+Merge pull request #1 from mogotest/master <bf17b32> [Matt Conway]
+Properly scope the reference to the Stat class. <b0d007e> [Kevin Menard]
+only auto start redis if not on CI <0010bd5> [Matt Conway]
+disable rbx19 <d66ae57> [Matt Conway]
+setup travis CI <a553e2b> [Matt Conway]
+
 0.5.0
 -----
 
