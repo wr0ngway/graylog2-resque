@@ -3,6 +3,8 @@ graylog2-resque
 
 This gem is a failure handler plugin for [Resque][0] that sends resque failures to [graylog2][1]
 
+[![Build Status](https://secure.travis-ci.org/wr0ngway/graylog2-resque.png)](http://travis-ci.org/wr0ngway/graylog2-resque)
+
 Install
 -------
 
